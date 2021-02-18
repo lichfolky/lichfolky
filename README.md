@@ -1,4 +1,4 @@
-## Hi! I'm Mattia, a web developer.
+## Hi! I'm Mattia, an italian web developer.
 
 Most of my experiments are on my [glitch page](https://glitch.com/@lichfolky), here I store the boring stuff like my unreilable [notes](https://github.com/lichfolky/Notes).
 In my [github page]( https://lichfolky.github.io/) I'm trying to document what I'm currently experimenting on.
