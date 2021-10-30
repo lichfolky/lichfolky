@@ -1,6 +1,6 @@
 ### Hi! I'm Mattia, an italian web designer and developer.
 
-Most of my experiments are on my [messy glitch page](https://glitch.com/@lichfolky), some exercises are on [codepen](https://codepen.io/collection/pgyJoe) and here I store my [unreilable notes](https://github.com/lichfolky/grimoire) and my code.
+Most of my experiments are on my [messy glitch page](https://glitch.com/@lichfolky), some exercises are on [codepen](https://codepen.io/collection/pgyJoe) and here I store my [unreilable notes](https://github.com/lichfolky/grimoire) and my code.  
 In my [github page]( https://lichfolky.github.io/) I'm trying to document what I'm currently experimenting on.
 
 I'm not responsable for any use of anything I share. 
