@@ -5,7 +5,7 @@ Most of my experiments are on my [messy glitch page](https://glitch.com/@lichfol
 My [portfolio]( https://lichfolky.com/) is still under construction.  
 
 
-I'm not responsable for any use of anything I share. 
+I'm not responsable for any use of anything I share.  
 But feel free to use it in any way.
 
 <!--
