@@ -1,8 +1,7 @@
 ### Hi! I'm Mattia, an italian web designer and developer.
 
 Here I store my [unreilable notes](https://github.com/lichfolky/grimoire) and my projects.  
-Most of my experiments are on my [messy glitch page](https://glitch.com/@lichfolky).  
-My css tests are on [codepen](https://codepen.io/collection/pgyJoe).  
+Most of my experiments are on my [messy glitch page](https://glitch.com/@lichfolky) or in [codepen](https://codepen.io/collection/pgyJoe).  
 My [portfolio]( https://lichfolky.com/) is still under construction.  
 
 
