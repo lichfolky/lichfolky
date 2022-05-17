@@ -3,7 +3,7 @@
 Here I store my [unreilable notes](https://github.com/lichfolky/grimoire), some [files](https://gist.github.com/lichfolky) and my projects.  
 Most of my experiments are on [codepen](https://codepen.io/collection/pgyJoe) or in my [messy glitch page](https://glitch.com/@lichfolky). 
 
-My [portfolio]( https://lichfolky.com/) is always be under construction.  
+My [portfolio]( https://lichfolky.com/) will always be under construction.  
 
 
 I'm not responsable for any use of anything I share.  
