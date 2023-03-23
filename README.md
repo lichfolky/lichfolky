@@ -6,7 +6,7 @@ My last courses and workshops (Italian):
 + [Elementi di javascript](https://github.com/lichfolky/elementi-js-2022)
 
 Here I store my [unreliable notes](https://github.com/lichfolky/grimoire), some [files](https://gist.github.com/lichfolky) and my projects.  
-Most of my experiments are on [codepen](https://codepen.io/collection/pgyJoe) or in my [messy glitch page](https://glitch.com/@lichfolky). 
+Most of my experiments are on [codepen](https://codepen.io/lichfolky) or in my [messy glitch page](https://glitch.com/@lichfolky). 
 
 My [portfolio](https://mattiafolcarelli.me/) will always be under construction.
 
