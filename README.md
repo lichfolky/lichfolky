@@ -1,6 +1,5 @@
-### Hi! I'm Mattia, an italian web designer and developer.
-
-I love to teach interweb stuff ad share my passion with others.
+### Hi! I'm Mattia, an italian web designer and developer. 
+<img src="profile-pic.png" width="100"> I love to teach interweb stuff ad share my passion with others.
 
 My last courses and workshops (Italian):
 + [Git and github](https://github.com/lichfolky/corso-git-2023)
@@ -11,4 +10,4 @@ Most of my experiments are on [codepen](https://codepen.io/collection/pgyJoe) or
 
 My [portfolio](https://mattiafolcarelli.me/) will always be under construction.
 
-![My photo](profile-pic.png) 
+
